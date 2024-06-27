@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "integratecnv"
+version = "0.1.0"
+description = ""
+authors = ["sitarapersad <sitara.persad@columbia.edu>, ajsanchez <ajscientia@gmail.con>, yubin xie"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+numpy = "1.26"
+pybedtools = "^0.10.0"
+pandas = "^2.2.2"
+matplotlib = "^3.9.0"
+scanpy = "^1.10.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
