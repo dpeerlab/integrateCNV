@@ -2,7 +2,8 @@
 name = "integratecnv"
 version = "0.1.0"
 description = ""
-authors = ["sitarapersad <sitara.persad@columbia.edu>, ajsanchez <ajscientia@gmail.con>, yubin xie"]
+authors = ["sitarapersad <sitara.persad@columbia.edu>, ajsanchez <ajscientia@gmail.com>, yubin xie <yux2009@med.cornell.edu
+>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
